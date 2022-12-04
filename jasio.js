@@ -4,7 +4,7 @@ const mind = document.querySelector('.mind');
 const cytaty = [
     'Co tam u was majstry?',
     'Taki Metron... skurwysyny...',
-    'Ogień Renia, ogień!!',
+    'Ogień Renia, ogień!',
     'Tylko Kombi nic nie liczy się!',
     'Gdyby ktoś kiedykolwiek mnie szukał... Niech idzie tam, gdzie gra Elvis Presley...',
     'jerōnie!',
