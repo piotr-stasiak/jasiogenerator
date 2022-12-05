@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     font-family: 'Montserrat', sans-serif;
     background-image: url("background.jpg");
-    color:#ccc;
+    color:rgb(48, 57, 176);
     font-size: 1.6rem
 }
 
@@ -78,7 +78,7 @@ body {
     margin-top: 2rem;
     font-size: 2rem;
     font-weight: bold;
-    color: #f6483b
+    color: #e8cd00
 }
 
 .shake-animation {
