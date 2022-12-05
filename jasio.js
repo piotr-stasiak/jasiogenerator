@@ -5,7 +5,7 @@ const cytaty = [
     'Co tam u was majstry?',
     'Taki Metron... skurwysyny...',
     'Taka Elana... wyprzedane wszystko za bezcen...',
-    'A taka Czesanka była...',
+    'A taka czesanka była...',
     'Taki Polchem... to 500 ludzi pracowało...',
     'Kiedyś przez Dworzec Północny węgiel wozili',
     'Młodzi to nie mają tej ikry co kiedyś',
